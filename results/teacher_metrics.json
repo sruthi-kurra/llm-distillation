@@ -1,0 +1,11 @@
+{
+  "model": "facebook/bart-large-cnn",
+  "parameters_millions": 406,
+  "dataset": "CNN/DailyMail",
+  "eval_samples": 100,
+  "metrics": {
+    "rouge1": 0.3393935427063811,
+    "rouge2": 0.14966547010101505,
+    "rougeL": 0.2555274518412153
+  }
+}
